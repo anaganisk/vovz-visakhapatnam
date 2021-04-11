@@ -1,4 +1,4 @@
-# VOVZ FS2020 (Visakhapatnam Airport, India Micorosft Flight Simulator 2020 Scenery)
+# VOVZ FS2020 (Visakhapatnam Airport, India Micorosft Flight Simulator 2020 enhancements)
 
 This repo is the project file for Airport Design editor used to enhance VOVZ.
 
